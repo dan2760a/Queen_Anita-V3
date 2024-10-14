@@ -58,11 +58,11 @@ global.rpg = {
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
 global.autoViewStatus = true;       //make true to view statuses
-global.unavailable = true;     
+global.unavailable = false;     
 //to show your real presence  
-global.available = false;   
+global.available = true;   
 // to show always online  
-global.autoreadmessages = false;   
+global.autoreadmessages = true;   
 ///To always read messages
 global.chatbot = false;
 global.autoreact = false;
